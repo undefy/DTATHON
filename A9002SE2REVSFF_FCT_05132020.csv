@@ -1,0 +1,20 @@
+TAG|SHORT|LONG|DISPLAY_ORDER|CURRENCY|PRECISION|DENOMINATOR|MKT_AGGREGATION|PROD_AGGREGATION|PER_AGGREGATION|FACT_TYPE
+U|Vtas (Uds)|Vtas (Uds)|1|EUR|2|1000|N/A|N/A|N/A|N/A
+E|Vtas (Vol)|Vtas (Vol)|2|EUR|2|1000|N/A|N/A|N/A|N/A
+E1|Vtas (Vol) (en promocion)|Vtas (Vol) (en promocion)|3|EUR|2|1000|N/A|N/A|N/A|N/A
+E6601|Vtas (Vol) (display + folleto)|Vtas (Vol) (display + folleto)|4|EUR|2|1000|N/A|N/A|N/A|N/A
+E6602|Vtas (Vol) (display)|Vtas (Vol) (display)|5|EUR|2|1000|N/A|N/A|N/A|N/A
+E6603|Vtas (Vol) (folleto)|Vtas (Vol) (folleto)|6|EUR|2|1000|N/A|N/A|N/A|N/A
+E6604|Vtas (Vol) (reduccion temp. de precio)|Vtas (Vol) (reduccion temp. de precio)|7|EUR|2|1000|N/A|N/A|N/A|N/A
+E6605|Vtas (Vol) (resto promociones)|Vtas (Vol) (resto promociones)|8|EUR|2|1000|N/A|N/A|N/A|N/A
+V|Vtas (Valor)|Vtas (Valor)|9|EUR|2|1000|N/A|N/A|N/A|N/A
+V1|Vtas (Valor) (en promocion)|Vtas (Valor) (en promocion)|10|EUR|2|1000|N/A|N/A|N/A|N/A
+V6601|Vtas (Valor) (display + folleto)|Vtas (Valor) (display + folleto)|11|EUR|2|1000|N/A|N/A|N/A|N/A
+V6602|Vtas (Valor) (display)|Vtas (Valor) (display)|12|EUR|2|1000|N/A|N/A|N/A|N/A
+V6603|Vtas (Valor) (folleto)|Vtas (Valor) (folleto)|13|EUR|2|1000|N/A|N/A|N/A|N/A
+V6604|Vtas (Valor) (reduccion temp. de precio)|Vtas (Valor) (reduccion temp. de precio)|14|EUR|2|1000|N/A|N/A|N/A|N/A
+V6605|Vtas (Valor) (resto promociones)|Vtas (Valor) (resto promociones)|15|EUR|2|1000|N/A|N/A|N/A|N/A
+DN|Dist. Num‚rica (S)|Dist. Num‚rica (S)|16|EUR|0|1|N/A|N/A|N/A|N/A
+DW|Distribuci¢n Ponderada (S)|Distribuci¢n Ponderada (S)|17|EUR|0|1|N/A|N/A|N/A|N/A
+IT|N. de Items (S)|N. de Items (S)|18|EUR|1|1|N/A|N/A|N/A|N/A
+SHL.T|Universo|Universo|19|EUR|0|1|N/A|N/A|N/A|N/A
